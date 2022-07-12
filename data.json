@@ -1,0 +1,106 @@
+{
+  "sections": [
+    {
+      "name": "personal projects",
+      "description": "When quarantine first hit the world, I soon realized that I had a lot more free time in the day to do, well, anything! - and once I found out that it was possible to actually create the games that I have been playing all these years, I quickly found a passion for game development. After creating a handful of published works (and admittedly more unfinished ones), I soon dove into the more practical side of coding, which I have practiced in the form of various web-apps and team-lead projects.",
+      "content": [
+        {
+          "name": "Rubiks Cube Solver",
+          "description": "My team’s Rubik’s Cube Solver was our entry for this year’s hackathon, placing 4th overall. While trying to come up with the idea for the project, we realized that there were no apps online that use computer vision and machine learning to digitize a rubik’s cube and show you how to solve it, so we decided to develop that for our 36 hour project. Not surprisingly, with such a technically massive project (and the fact that I wanted to create a javascript ML library from scratch), we didn’t finish within the bounds of the hackathon, but we ended up being one of the winners with only our current, unfinished site and the creative idea. We then worked over the next week to wrap up some outstanding features and polish the app a bit more.",
+          "image": "rubiks_cube_solver.png"
+        },
+        {
+          "name": "AI Flappy Bird Simulator",
+          "description": "Taking a step away from game development, my artificial intelligence Flappy Bird Simulator was a nice introduction to machine learning in Unity for me. Since I wanted this to be a learning experience, I created my own library of matrix functions for C# and used a genetic algorithm to train each generation of simulated “birds.”",
+          "image": "flappy_bird_simulator.png"
+        },
+        {
+          "name": "Superhot Dungeons",
+          "description": "Superhot Dungeons is a 2D fan-remake of the hit game Superhot, where time only moves when you do. This project had me working on object pooling, a game developer technique to increase performance when the object creation/deletion rate is high, and a more advanced enemy “ai” to make the player think a bit more when traversing.",
+          "image": "superhot_dungeons.png"
+        },
+        {
+          "name": "Chess 3",
+          "description": "As a personal extension of my team’s GunnHacks project, I created Chess 3, where I had time to improve all of the little details of the project to make the overall experience more enjoyable. I created a decent user interface (compared to the bland first iteration of the game), more gamemodes and possible rules to add to the match, along with adding spectators and less-buggy room creation.",
+          "image": "chess.png"
+        },
+        {
+          "name": "Well Chess But Actually No",
+          "description": "Well Chess but Actually No was the first major project I was involved in, which happened to be during the 7th annual hackathon that my school hosts. My role (in a team of four friends) was the development and networking of the game, which I did using Unity. Developing a chess game is a good challenge, implementing and hosting a multiplayer network into said game is a great challenge (not to mention that we had to finish within a 36 hour time constraint).",
+          "image": "chess.png"
+        },
+        {
+          "name": "Boxel Rebound",
+          "description": "My Boxel Rebound remake in Unity is particularly close to my heart because my friends and I created something very similar in p5.js a while back; though, I have a much better grasp on the inner-workings of this project (and coding in general) than the one I created with them.",
+          "image": "boxel_rebound.png"
+        },
+        {
+          "name": "Hyperdrive",
+          "description": "Hyperdrive is another one of my published Unity games (which was developed much faster than the first game). This time, I decided to utilize Blender to create 3D models of the gameObjects and environment, which I then imported over to the project to use (not such a straightforward task though! - had many issues with texture rendering and absurd file sizes, which were all eventually accounted for).",
+          "image": "hyperdrive.png"
+        },
+        {
+          "name": "Retro Rush",
+          "description": "Retro Rush was one of my first “real” games when I first started getting into Unity (and coding in general) back in 2019. I believe this was more of a learning experience above all else because I practiced creating object oriented components as well as an iterative design process with github and version control.",
+          "image": "retro_rush.png"
+        }
+      ]
+    },
+    {
+      "name": "digital artwork",
+      "description": "Most art I do nowadays generally starts in GravitySketch, a free, virtual reality sculpting program. This is where I first sketch and model the design, which is then exported to Blender, one of the best (and free!) art mediums to this day. Once I have the raw .fbx files imported into blender, I can then texture and render the final design.",
+      "content": [
+        {
+          "name": "Lost In Space",
+          "description": "Taking high inspiration from the Netflix Original “Lost in Space,” one of the robot aliens found within the series",
+          "image": "lost_in_space.png"
+        },
+        {
+          "name": "Rundas",
+          "description": "Rundas, one of the characters from the iconic Metroid series",
+          "image": "rundas.png"
+        },
+        {
+          "name": "Alien",
+          "description": "Generic alien creature",
+          "image": "alien.png"
+        },
+        {
+          "name": "Spider Crab",
+          "description": "Generic spider-crab creature",
+          "image": "spider_crab.png"
+        },
+        {
+          "name": "Shrimp",
+          "description": "Generic shrimp creature (first drawing using GravitySketch)",
+          "image": "shrimp.png"
+        },
+        {
+          "name": "Transformer",
+          "description": "My take on a transformer that was hard-surface modeled solely in Blender (more content + VFX in link)",
+          "image": "transformer.png"
+        },
+        {
+          "name": "Interior Design",
+          "description": "Interior design rendering",
+          "image": "interior_design.png"
+        },
+        {
+          "name": "Dystopian Robot",
+          "description": "Dystopian robot (hard-surface modeled)",
+          "image": "dystopian_robot.png"
+        },
+        {
+          "name": "Spider Tank",
+          "description": "Spider-tank concept (hard-surface modeled)",
+          "image": "spider_tank.png"
+        },
+        {
+          "name": "Ship Concept",
+          "description": "Ship concept (the first model that I created using Blender)",
+          "image": "ship_concept.png"
+        }
+      ]
+    }
+  ]
+}
